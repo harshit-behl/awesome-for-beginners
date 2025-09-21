@@ -2192,5 +2192,14 @@
             "technologies": ["TypeScript"],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
         }
+	{
+		    "name": "spotify",
+		    "link": "https://github.com/spotify",
+		    "label": "stat:contributions-welcome",
+		    "technologies": [
+		        "C++"
+    		],
+    "description": "Open-source projects and tools from Spotify for music streaming and data engineering"
+		}
     ]
 }
